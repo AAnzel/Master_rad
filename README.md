@@ -1,4 +1,4 @@
-# Practical work for Master Thesis
+# Practical part of my Master Thesis
 # Subject: Determining protein N-glycosylation with machine learning methods
 Master studies
 
