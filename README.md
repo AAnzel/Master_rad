@@ -8,7 +8,7 @@ Master studies
 * Aleksandar Anžel 1025/2018
 
 ### Problem:
-* This repository contains source and data files for determining protein N-glycosylation with SVMs and fully connected neural networks. For each protein in [the dataset](data/UniProt cist/), physical and chemical attributes are created to be used in a learning process. Different techniques were used to overcome unbalanced data problem that is existent in the used data set.
+* This repository contains source and data files for determining protein N-glycosylation with SVMs and fully connected neural networks. For each protein in the dataset, physical and chemical attributes are created to be used in a learning process. Different techniques were used to overcome unbalanced data problem that is existent in the used data set.
 
 ### Running jupyter-notebook files:
 * Every source file is adjusted for running inside Google Colaboratory environment.
