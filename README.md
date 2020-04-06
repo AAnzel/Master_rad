@@ -12,9 +12,10 @@ Master studies
 
 ### Running jupyter-notebook files:
 * Every source file is adjusted for running inside Google Colaboratory environment.
+* Please use files from src/Refactored/ directory.
 
 ### Data:
-* Information on used data can be found in [Main\_1.ipynb](src/Main\_1.ipynb), as well as in [Master\_rad.pdf](Master\_rad.pdf).
+* Information on used data can be found in [Data\_generator.ipynb](src/Refactored/Data\_generator.ipynb), as well as in [Master\_rad.pdf](Master\_rad.pdf).
 * Instructions for creating input data for Machine Learning models can be found in Master\_rad.pdf.
 * The most used Python libraries: Biopython, SciKit-Learn, Keras, Numpy, Pandas, Matplotlib.
 
